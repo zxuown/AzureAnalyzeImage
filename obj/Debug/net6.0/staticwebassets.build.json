@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9NRuWzX8VmxwHldlLB9sSi2T6TEjfPZqC7hT0Jds+4o=",
+  "Source": "AzureAnalyzeImage",
+  "BasePath": "_content/AzureAnalyzeImage",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
